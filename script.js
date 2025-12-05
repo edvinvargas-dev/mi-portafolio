@@ -2,7 +2,7 @@
 const proyectos = [
     {
         titulo: "Calculadora",
-        descripcion: "Una calculadora para realizar calculos matematicos y numeros aleatorios.",
+        descripcion: "Una calculadora para realizar calculos matematicos, raiz cuadrada y numeros aleatorios.",
         imagen: "Calculadora.png", // Reemplaza con la URL de tu imagen
         repoLink: "https://edvinvargas-dev.github.io/Calculadora/",
         demoLink: "#"
