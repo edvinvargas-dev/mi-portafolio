@@ -1,10 +1,10 @@
 // Datos de los proyectos (¡Edita esto para agregar tus proyectos!)
 const proyectos = [
     {
-        titulo: "E-commerce Simple",
-        descripcion: "Una tienda en línea básica construida con HTML, CSS y JavaScript vainilla. Incluye carrito de compras.",
+        titulo: "Calculadora",
+        descripcion: "Una calculadora para realizar calculos matematicos y numeros aleatorios.",
         imagen: "Calculadora.png", // Reemplaza con la URL de tu imagen
-        repoLink: "https://github.com/tuusuario/proyecto1",
+        repoLink: "https://edvinvargas-dev.github.io/Calculadora/",
         demoLink: "#"
     },
     {
@@ -60,3 +60,4 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
     });
 
 });
+
