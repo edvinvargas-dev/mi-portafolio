@@ -3,7 +3,7 @@ const proyectos = [
     {
         titulo: "E-commerce Simple",
         descripcion: "Una tienda en línea básica construida con HTML, CSS y JavaScript vainilla. Incluye carrito de compras.",
-        imagen: "https://via.placeholder.com/400x250", // Reemplaza con la URL de tu imagen
+        imagen: "Calculadora.png", // Reemplaza con la URL de tu imagen
         repoLink: "https://github.com/tuusuario/proyecto1",
         demoLink: "#"
     },
@@ -58,4 +58,5 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
             behavior: 'smooth'
         });
     });
+
 });
