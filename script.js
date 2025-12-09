@@ -4,7 +4,7 @@ const proyectos = [
         titulo: "Calculadora",
         descripcion: "Una calculadora para realizar calculos matematicos, raiz cuadrada, divisiones, multiplicaciones y numeros aleatorios.",
         imagen: "Calculadora.png", // Reemplaza con la URL de tu imagen
-        repoLink: "#",
+        repoLink: "https://github.com/edvinvargas-dev/Calculadora",
         demoLink: "https://edvinvargas-dev.github.io/Calculadora/"
     },
     {
