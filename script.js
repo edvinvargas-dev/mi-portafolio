@@ -3,16 +3,16 @@ const proyectos = [
     {
         titulo: "Calculadora",
         descripcion: "Una calculadora para realizar calculos matematicos, raiz cuadrada, divisiones, multiplicaciones y numeros aleatorios.",
-        imagen: "Calculadora.png", // Reemplaza con la URL de tu imagen
+        imagen: "https://cdn.pixabay.com/photo/2016/11/08/03/07/calculation-1807354_1280.png",
         repoLink: "https://github.com/edvinvargas-dev/Calculadora",
         demoLink: "https://edvinvargas-dev.github.io/Calculadora/"
     },
     {
-        titulo: "App del Clima",
-        descripcion: "Aplicación que consume una API externa para mostrar el clima actual según la ubicación.",
+        titulo: "Analisis Exploratorio Ventas",
+        descripcion: "Es un analisis exploratorio de datos, realizado sobre un dataset de 50,000 registros con el objetivo de encontrar patrones, tendencias, oportunidades estrategicas sobre el comportamiento de las ventas",
         imagen: "https://via.placeholder.com/400x250",
-        repoLink: "https://github.com/tuusuario/proyecto2",
-        demoLink: "#"
+        repoLink: "https://github.com/edvinvargas-dev/EDA_ProyectoBasico.git",
+        demoLink: "https://edvinvargas-dev.github.io/EDA_ProyectoBasico/AnalisisProyectoBasico.html"
     },
     {
         titulo: "To-Do List",
