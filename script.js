@@ -10,16 +10,16 @@ const proyectos = [
     {
         titulo: "Analisis Exploratorio Ventas",
         descripcion: "Es un analisis exploratorio de datos, realizado sobre un dataset de 50,000 registros con el objetivo de encontrar patrones, tendencias, oportunidades estrategicas sobre el comportamiento de las ventas",
-        imagen: "https://via.placeholder.com/400x250",
+        imagen: "https://github.com/edvinvargas-dev/EDA_ProyectoBasico/blob/main/images/analisisExploratorio.png?raw=true",
         repoLink: "https://github.com/edvinvargas-dev/EDA_ProyectoBasico.git",
         demoLink: "https://edvinvargas-dev.github.io/EDA_ProyectoBasico/AnalisisProyectoBasico.html"
     },
     {
-        titulo: "To-Do List",
-        descripcion: "Gestor de tareas con almacenamiento local (LocalStorage) para no perder tus datos.",
+        titulo: "Tómbola",
+        descripcion: "Generador de números aleatorios para juegos de tómbola, bingo o rifas. Permite personalizar el rango de números y llevar un registro de los números ya seleccionados.",
         imagen: "https://via.placeholder.com/400x250",
-        repoLink: "https://github.com/tuusuario/proyecto3",
-        demoLink: "#"
+        repoLink: "https://github.com/edvinvargas-dev/Tombola.git",
+        demoLink: "https://edvinvargas-dev.github.io/Tombola/index.html"
     }
 ];
 
